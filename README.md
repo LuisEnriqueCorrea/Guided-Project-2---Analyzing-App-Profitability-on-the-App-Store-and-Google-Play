@@ -15,5 +15,5 @@ Se presentarán los resultados en el archivo Guided_Procect_Apps.ipynb, donde se
 ## Público objetivo
 Este proyecto es ideal para principiantes en análisis de datos que buscan aplicar sus habilidades en un proyecto práctico y sencillo utilizando solo Python básico.
 
-## Licencia
+## Licencia
 Este proyecto está bajo la licencia MIT. Para más información, revisar el archivo LICENSE.
